@@ -1,0 +1,10 @@
+{
+  "operation": "new_collection",
+  "fields": {
+    "Label of the new collection": "second-list",
+    "Title of the collection": "Second test list",
+    "Kind": "selection",
+    "Feature it on the home page": "No"
+  },
+  "files": {}
+}

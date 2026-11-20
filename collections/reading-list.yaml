@@ -11,4 +11,6 @@ title: Test reading list
 description: A catalogue made from the manager, to test it.
 type: catalogue
 order: manual
-members: []
+members:
+- label: linking-numbers
+  follow: true

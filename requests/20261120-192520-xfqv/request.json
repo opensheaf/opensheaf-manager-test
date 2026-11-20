@@ -1,9 +1,0 @@
-{
-  "operation": "add",
-  "fields": {
-    "In collection": "reading-list",
-    "New member": "linking-numbers",
-    "Why (optional)": "Test: a member added from the manager."
-  },
-  "files": {}
-}

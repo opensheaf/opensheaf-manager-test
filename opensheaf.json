@@ -43,8 +43,8 @@
       "kind": "collection",
       "name": "icqr25dgddk2n3hznkknmqcaclgtnmvpjpirsxghi5wknufd3cya",
       "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
-      "head": "v1",
-      "inventorySha512": "c342eea202fe766514f5b3a06c06b42bb6505f8cc1a19e5dd3445218ad15b2058fb12c83d932e703deb11728e93176f7fb76c77bf9cdfaad655d645272397a7f",
+      "head": "v2",
+      "inventorySha512": "4b1c26c23f305245dfa38f83a7589f93995b7ca13171e3c68d7f88b82f5789872487e434be6a7eaff0f33b88debb589a70c90eb6eaf4eddf1c8a11825b579fd2",
       "status": "active",
       "label": "reading-list"
     },

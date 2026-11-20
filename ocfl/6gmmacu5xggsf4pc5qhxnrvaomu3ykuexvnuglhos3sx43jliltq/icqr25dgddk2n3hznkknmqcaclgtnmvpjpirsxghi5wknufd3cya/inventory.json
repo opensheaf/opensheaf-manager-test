@@ -13,6 +13,15 @@
       ],
       "c2c2746a26199eb8f74aa0d6e746d4a3": [
         "v1/content/object.json"
+      ],
+      "40bf8a15e7db2b3cc2897d9a0aafed79": [
+        "v2/content/datacite.json"
+      ],
+      "e146e2a874fddd5409d1752f71d7f1eb": [
+        "v2/content/members.json"
+      ],
+      "a9b69649aad25ab520f5f6d1f8761437": [
+        "v2/content/object.json"
       ]
     },
     "sha256": {
@@ -27,10 +36,19 @@
       ],
       "73dcba39b9c726b5701f81a0af738a669523d2ba2cd11df41c7eb6c495947c61": [
         "v1/content/object.json"
+      ],
+      "131e8c5d6e55f4803497c502c542288129b22f4da8b8cd878094e049c6f8f1d4": [
+        "v2/content/datacite.json"
+      ],
+      "d4ee70cec7970bf89d25b5be5d2f61be57fdcdf39a5314aa935771d8b740100c": [
+        "v2/content/members.json"
+      ],
+      "1dd824ec75eef4dc5f423ee2df68c8a2571053e8dd326cbeedb34ca80ca0af63": [
+        "v2/content/object.json"
       ]
     }
   },
-  "head": "v1",
+  "head": "v2",
   "id": "sheaf:icqr25dgddk2n3hznkknmqcaclgtnmvpjpirsxghi5wknufd3cya:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
   "manifest": {
     "515dc282789775c392e8b72a9ad830d07fb2a00b80bccd8f068174b239d44e8c40d1bc056889dccb0916c6c10ddb47c194d5bea2d2e564cd51c0a14478712903": [
@@ -44,6 +62,15 @@
     ],
     "31d2f338ebdffab90ef553449359fa8b45d88a0f8d2d7a031c643435b19f9f323e21735a541dcc07b0b34ceeb0c71ff8100d9c8f8a3f54088e4489c07eb8be60": [
       "v1/content/object.json"
+    ],
+    "cff3e183fb8e83f34c3db1ffece03e2cdb5b587f4505c05572767255290cb5b05ec05ed16891e549a1f9d2793e627864cf7d8d6d0479e920b6f273e59f5a7e5b": [
+      "v2/content/datacite.json"
+    ],
+    "eff83f3d77a8ee292ca9ee8368301820f34d172e8146b2f74e12db692193bed726002fa7e8b9e83b6534a8f6b77a575b0a1f8e7d29e17efad683690cabbc6522": [
+      "v2/content/members.json"
+    ],
+    "ab576d01adf2f56223c7d5df5b68337b7d7fab6c614e09c6a50fa5f2b23c7272b839d633a56b5ccb7ca8878e9a55029d09c82a8b14f00f2297c2e21fdd4b4572": [
+      "v2/content/object.json"
     ]
   },
   "type": "https://ocfl.io/1.1/spec/#inventory",
@@ -65,6 +92,28 @@
         ]
       },
       "message": "New collection reading-list (request 20261120-192345-kjah)",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v2": {
+      "created": "2026-11-20T19:25:50Z",
+      "state": {
+        "cff3e183fb8e83f34c3db1ffece03e2cdb5b587f4505c05572767255290cb5b05ec05ed16891e549a1f9d2793e627864cf7d8d6d0479e920b6f273e59f5a7e5b": [
+          "datacite.json"
+        ],
+        "ec2a307617bf6104a126e770ad1eaede41ed39196aa536a72f601defe05f835f6565674bd7cae0994913c9e196c0dc69035d9da2e2024e4a840472d907a60757": [
+          "genesis.json"
+        ],
+        "eff83f3d77a8ee292ca9ee8368301820f34d172e8146b2f74e12db692193bed726002fa7e8b9e83b6534a8f6b77a575b0a1f8e7d29e17efad683690cabbc6522": [
+          "members.json"
+        ],
+        "ab576d01adf2f56223c7d5df5b68337b7d7fab6c614e09c6a50fa5f2b23c7272b839d633a56b5ccb7ca8878e9a55029d09c82a8b14f00f2297c2e21fdd4b4572": [
+          "object.json"
+        ]
+      },
+      "message": "Add linking-numbers to reading-list (request 20261120-192520-xfqv): Test: a member added from the manager.",
       "user": {
         "name": "Massimiliano Gubinelli",
         "address": "https://opensheaf.org/opensheaf-manager-test/"

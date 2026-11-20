@@ -1,0 +1,18 @@
+{
+  "format": "opensheaf-object/0.2",
+  "specification": "0.2",
+  "kind": "document",
+  "name": "pscealdrhuuiqvykmkqlh7c4pbjtq4kan3afszola2hscx5vwujq",
+  "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "documentVersion": 1,
+  "sourcesMissing": {
+    "text": "A test deposit: only a PDF exists."
+  },
+  "renditions": [
+    {
+      "path": "paper.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "status": "active"
+}

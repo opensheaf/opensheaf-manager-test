@@ -1,0 +1,48 @@
+{
+  "format": "opensheaf-collection/0.2",
+  "type": "catalogue",
+  "order": "issued-desc",
+  "members": [
+    {
+      "kind": "document",
+      "name": "pscealdrhuuiqvykmkqlh7c4pbjtq4kan3afszola2hscx5vwujq",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "at": [
+        "https://opensheaf.org/opensheaf-manager-test/"
+      ],
+      "version": "v1",
+      "inventorySha512": "bd8d34b81cf6f5dcf037e3aee3dfa906e4f2c5cd377ab96db2bca258e60d345eba669871aa47fc21819d91e63fa61491ae2591ee206650f28fec6089b7880113",
+      "follow": "latest",
+      "cite": {
+        "title": "A test paper deposited from the manager",
+        "creators": [
+          "Massimiliano Gubinelli"
+        ],
+        "year": 2026,
+        "issued": "2026-11-20"
+      }
+    },
+    {
+      "kind": "document",
+      "name": "hxma6j7atnjfvzcj5qxlyybhsj6xat6gmpuxrkpsm3j5uiipostq",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "at": [
+        "https://opensheaf.org/opensheaf-manager-test/"
+      ],
+      "version": "v3",
+      "inventorySha512": "286aaff036edae9125efa3ed6dda9d976737f506568905c24f14247f72e490f6697a40c44682f2c7477a8b3c2646c5a562bae3a68b01748cc45fc393a40090e6",
+      "follow": "latest",
+      "cite": {
+        "title": "Linking numbers in local quantum field theory",
+        "creators": [
+          "Detlev Buchholz",
+          "Fabio Ciolli",
+          "Giuseppe Ruzzi",
+          "Ezio Vasselli"
+        ],
+        "year": 2018,
+        "issued": "2018-08-30"
+      }
+    }
+  ]
+}

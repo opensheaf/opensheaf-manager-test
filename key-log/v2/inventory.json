@@ -1,0 +1,58 @@
+{
+  "digestAlgorithm": "sha512",
+  "head": "v2",
+  "id": "sheaf:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "manifest": {
+    "95457d64197056a6c6b306b20a83b7ff8c85853d80bf3839f0931391c3b0a955256a1f16f53b102a561355ff11ce14dc4a60e152517f93877770bbe46e50b217": [
+      "v1/content/genesis.json"
+    ],
+    "5497b8411cb1904e36e2cb35c26015f4ef46070bf02de23b3c5fb3ddb8f63fdbdc8f1ce8012fa4e20e3db048e3c209e89f3c1e1748dd439258f3f5a397f3d04e": [
+      "v1/content/keys.json"
+    ],
+    "1590bd093a648760a5d29d37dbeb371c995d27a8febda66ceeebf9fe2155ff8e1cc9d632a738530fa6c8d4f11fecb356b2251ed1fc6f35180a0056322fe09be2": [
+      "v1/content/object.json"
+    ],
+    "5462a853dd63383bc60a496bda3a3abc80e5f66436c294624a2778a3376cfb708358fb4d36f72dc096c7538472f65bc8040b8ef02e8c5365f2a6f03219590635": [
+      "v2/content/keys.json"
+    ],
+    "3497f42959b0f2f23aed53c6a57051722909103438da2d0053de60e028ae25703784665f9932413b3d55ea715666c32acfde668d627f1e2c3f66559fd3d8fd58": [
+      "v2/content/object.json"
+    ]
+  },
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2026-11-20T18:20:55Z",
+      "state": {
+        "95457d64197056a6c6b306b20a83b7ff8c85853d80bf3839f0931391c3b0a955256a1f16f53b102a561355ff11ce14dc4a60e152517f93877770bbe46e50b217": [
+          "genesis.json"
+        ],
+        "5497b8411cb1904e36e2cb35c26015f4ef46070bf02de23b3c5fb3ddb8f63fdbdc8f1ce8012fa4e20e3db048e3c209e89f3c1e1748dd439258f3f5a397f3d04e": [
+          "keys.json"
+        ],
+        "1590bd093a648760a5d29d37dbeb371c995d27a8febda66ceeebf9fe2155ff8e1cc9d632a738530fa6c8d4f11fecb356b2251ed1fc6f35180a0056322fe09be2": [
+          "object.json"
+        ]
+      }
+    },
+    "v2": {
+      "created": "2026-11-20T18:21:00Z",
+      "state": {
+        "95457d64197056a6c6b306b20a83b7ff8c85853d80bf3839f0931391c3b0a955256a1f16f53b102a561355ff11ce14dc4a60e152517f93877770bbe46e50b217": [
+          "genesis.json"
+        ],
+        "5462a853dd63383bc60a496bda3a3abc80e5f66436c294624a2778a3376cfb708358fb4d36f72dc096c7538472f65bc8040b8ef02e8c5365f2a6f03219590635": [
+          "keys.json"
+        ],
+        "3497f42959b0f2f23aed53c6a57051722909103438da2d0053de60e028ae25703784665f9932413b3d55ea715666c32acfde668d627f1e2c3f66559fd3d8fd58": [
+          "object.json"
+        ]
+      },
+      "message": "Keys changed",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://mgubi.github.io/opensheaf-manager-test/"
+      }
+    }
+  }
+}

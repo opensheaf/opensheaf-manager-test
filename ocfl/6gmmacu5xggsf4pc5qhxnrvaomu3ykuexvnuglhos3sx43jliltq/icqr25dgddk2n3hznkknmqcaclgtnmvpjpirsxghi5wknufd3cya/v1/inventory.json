@@ -1,0 +1,74 @@
+{
+  "digestAlgorithm": "sha512",
+  "fixity": {
+    "md5": {
+      "01825d7efff3542e68f22d28905e4b19": [
+        "v1/content/datacite.json"
+      ],
+      "d5f9b5eaf387ede18f2323745ba54b5f": [
+        "v1/content/genesis.json"
+      ],
+      "5fa0f6b909fdac391acc761ff224ffb1": [
+        "v1/content/members.json"
+      ],
+      "c2c2746a26199eb8f74aa0d6e746d4a3": [
+        "v1/content/object.json"
+      ]
+    },
+    "sha256": {
+      "0afb104e7162ad62ee9dc1a1823418f920899e608e2b52cbe31b635973eb24cb": [
+        "v1/content/datacite.json"
+      ],
+      "e4577e2e7d098a01ff0f02d25be9400344424e2490fc6875a86712c0ecb536eb": [
+        "v1/content/genesis.json"
+      ],
+      "ef4653675dd4b5d89a7b6f361058d953b7ea2862ac535bf88a1f9d5621f685ab": [
+        "v1/content/members.json"
+      ],
+      "73dcba39b9c726b5701f81a0af738a669523d2ba2cd11df41c7eb6c495947c61": [
+        "v1/content/object.json"
+      ]
+    }
+  },
+  "head": "v1",
+  "id": "sheaf:icqr25dgddk2n3hznkknmqcaclgtnmvpjpirsxghi5wknufd3cya:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "manifest": {
+    "515dc282789775c392e8b72a9ad830d07fb2a00b80bccd8f068174b239d44e8c40d1bc056889dccb0916c6c10ddb47c194d5bea2d2e564cd51c0a14478712903": [
+      "v1/content/datacite.json"
+    ],
+    "ec2a307617bf6104a126e770ad1eaede41ed39196aa536a72f601defe05f835f6565674bd7cae0994913c9e196c0dc69035d9da2e2024e4a840472d907a60757": [
+      "v1/content/genesis.json"
+    ],
+    "841664cbd0671d55ba91d21a24f06e70c1005a297af7fadee8e9f6a0bd5dca245d22028e7815e9962c1cd1291113f8c1847f22a271b7f33590c7154f5b2a1ccf": [
+      "v1/content/members.json"
+    ],
+    "31d2f338ebdffab90ef553449359fa8b45d88a0f8d2d7a031c643435b19f9f323e21735a541dcc07b0b34ceeb0c71ff8100d9c8f8a3f54088e4489c07eb8be60": [
+      "v1/content/object.json"
+    ]
+  },
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2026-11-20T19:24:10Z",
+      "state": {
+        "515dc282789775c392e8b72a9ad830d07fb2a00b80bccd8f068174b239d44e8c40d1bc056889dccb0916c6c10ddb47c194d5bea2d2e564cd51c0a14478712903": [
+          "datacite.json"
+        ],
+        "ec2a307617bf6104a126e770ad1eaede41ed39196aa536a72f601defe05f835f6565674bd7cae0994913c9e196c0dc69035d9da2e2024e4a840472d907a60757": [
+          "genesis.json"
+        ],
+        "841664cbd0671d55ba91d21a24f06e70c1005a297af7fadee8e9f6a0bd5dca245d22028e7815e9962c1cd1291113f8c1847f22a271b7f33590c7154f5b2a1ccf": [
+          "members.json"
+        ],
+        "31d2f338ebdffab90ef553449359fa8b45d88a0f8d2d7a031c643435b19f9f323e21735a541dcc07b0b34ceeb0c71ff8100d9c8f8a3f54088e4489c07eb8be60": [
+          "object.json"
+        ]
+      },
+      "message": "New collection reading-list (request 20261120-192345-kjah)",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    }
+  }
+}

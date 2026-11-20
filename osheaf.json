@@ -1,8 +1,8 @@
 {
   "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
   "name": "OpenSheaf manager test (throwaway)",
-  "contact": "https://mgubi.org/opensheaf-manager-test/",
-  "baseUrl": "https://mgubi.org/opensheaf-manager-test/",
+  "contact": "https://opensheaf.org/opensheaf-manager-test/",
+  "baseUrl": "https://opensheaf.org/opensheaf-manager-test/",
   "profiles": [
     "website"
   ],
@@ -16,7 +16,7 @@
   },
   "depositor": {
     "name": "Massimiliano Gubinelli",
-    "address": "https://mgubi.org/opensheaf-manager-test/"
+    "address": "https://opensheaf.org/opensheaf-manager-test/"
   },
   "index": {
     "html": {

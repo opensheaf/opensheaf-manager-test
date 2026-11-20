@@ -2,7 +2,7 @@
   "format": "opensheaf-archive/0.2",
   "specification": "0.2",
   "name": "OpenSheaf manager test (throwaway)",
-  "contact": "https://mgubi.org/opensheaf-manager-test/",
+  "contact": "https://opensheaf.org/opensheaf-manager-test/",
   "storageRoot": "ocfl/",
   "storageLayout": "opensheaf-owner-name-storage-layout",
   "mainCollection": "sheaf:pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",

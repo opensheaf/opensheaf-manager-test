@@ -1,0 +1,49 @@
+{
+  "format": "opensheaf-collection/0.2",
+  "type": "catalogue",
+  "order": "manual",
+  "members": [
+    {
+      "kind": "document",
+      "name": "hxma6j7atnjfvzcj5qxlyybhsj6xat6gmpuxrkpsm3j5uiipostq",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "at": [
+        "https://opensheaf.org/opensheaf-manager-test/"
+      ],
+      "version": "v3",
+      "inventorySha512": "286aaff036edae9125efa3ed6dda9d976737f506568905c24f14247f72e490f6697a40c44682f2c7477a8b3c2646c5a562bae3a68b01748cc45fc393a40090e6",
+      "cite": {
+        "title": "Linking numbers in local quantum field theory",
+        "creators": [
+          "Detlev Buchholz",
+          "Fabio Ciolli",
+          "Giuseppe Ruzzi",
+          "Ezio Vasselli"
+        ],
+        "year": 2018,
+        "issued": "2018-08-30"
+      },
+      "follow": "latest"
+    },
+    {
+      "kind": "document",
+      "name": "iuyeguaaplt7pp2zzoyx4b6uddhgkhcavn4atb4iekdjlj2n6ytq",
+      "owner": "em4v3kp5btra7jlggxhvl5y6uluymzk2ezcdjg4pnptnk5tygora",
+      "at": [
+        "https://mgubi.org/papers/"
+      ],
+      "version": "v4",
+      "inventorySha512": "99301139f589e741fe422d5c3523176fdad5068e2861a338c8f1aba5c8aea2843fe120a85b0e5bc612bed205c01f5551a914d62e333fb8a9e943b477dce928b0",
+      "follow": "latest",
+      "cite": {
+        "title": "Mass gap for the fractional $\\Phi^4_2$ model",
+        "creators": [
+          "Paweł Duch",
+          "Massimiliano Gubinelli"
+        ],
+        "year": 2026,
+        "issued": "2026-11-12"
+      }
+    }
+  ]
+}

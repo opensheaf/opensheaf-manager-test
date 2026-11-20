@@ -14,3 +14,7 @@ order: manual
 members:
 - label: linking-numbers
   follow: true
+- uri: sheaf:iuyeguaaplt7pp2zzoyx4b6uddhgkhcavn4atb4iekdjlj2n6ytq:em4v3kp5btra7jlggxhvl5y6uluymzk2ezcdjg4pnptnk5tygora
+  at:
+  - https://mgubi.org/papers/
+  follow: true

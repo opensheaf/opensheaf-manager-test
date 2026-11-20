@@ -1,0 +1,74 @@
+{
+  "digestAlgorithm": "sha512",
+  "fixity": {
+    "md5": {
+      "139b1cf75764be49c42ac9d0f9246f05": [
+        "v1/content/datacite.json"
+      ],
+      "4f59e225380c172ab209beb52a852cb8": [
+        "v1/content/genesis.json"
+      ],
+      "ce78e73b480c238e823c466a96e24a3a": [
+        "v1/content/members.json"
+      ],
+      "06d0f423e4ac5a539c46b64ca53a0aa1": [
+        "v1/content/object.json"
+      ]
+    },
+    "sha256": {
+      "f2d380955781ba75179760aecc7ec27a2c15712aab55e019e1592581684dc891": [
+        "v1/content/datacite.json"
+      ],
+      "4766e78133cbf4637dd771636c2e93ddd5d55519bade40f0689edf1efe8ee8a6": [
+        "v1/content/genesis.json"
+      ],
+      "13ec1f486257a2cfbb71ae7e46abbe0791e6c4145505ae9116a8220a5e0ad9d8": [
+        "v1/content/members.json"
+      ],
+      "6ac67e7304fe13371bdd7aeeb778da10df842dda2cf6a33609b8a134268286aa": [
+        "v1/content/object.json"
+      ]
+    }
+  },
+  "head": "v1",
+  "id": "sheaf:pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "manifest": {
+    "748c546bd7880856ad028445dc78ae9f341894404c3d9e26c699f683a12c01aa8bf3d220d14488dba24158720a89ae124b8131c3499cef2b1f2b3e84f278f436": [
+      "v1/content/datacite.json"
+    ],
+    "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+      "v1/content/genesis.json"
+    ],
+    "c84b47b4bcab285af5fdc04d3a10cdecc04e579ca8a47c154800cf28f165865bd37e6b057639d32013283492320c2c553b6f5c1034c13ed81ab3ecd07f154dc9": [
+      "v1/content/members.json"
+    ],
+    "beaf8c18e61a601cfbc81d3528af1721ec581be641d2b3331374fad593ad57ce66ede648ebb4135e437e4215f31cef91142e1f6d9e60297b7c096d273d0b069e": [
+      "v1/content/object.json"
+    ]
+  },
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2026-11-20T18:21:43Z",
+      "state": {
+        "748c546bd7880856ad028445dc78ae9f341894404c3d9e26c699f683a12c01aa8bf3d220d14488dba24158720a89ae124b8131c3499cef2b1f2b3e84f278f436": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "c84b47b4bcab285af5fdc04d3a10cdecc04e579ca8a47c154800cf28f165865bd37e6b057639d32013283492320c2c553b6f5c1034c13ed81ab3ecd07f154dc9": [
+          "members.json"
+        ],
+        "beaf8c18e61a601cfbc81d3528af1721ec581be641d2b3331374fad593ad57ce66ede648ebb4135e437e4215f31cef91142e1f6d9e60297b7c096d273d0b069e": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 1: 0 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://mgubi.github.io/opensheaf-manager-test/"
+      }
+    }
+  }
+}

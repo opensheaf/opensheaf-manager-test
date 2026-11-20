@@ -1,0 +1,26 @@
+{
+  "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "name": "OpenSheaf manager test (throwaway)",
+  "contact": "https://mgubi.github.io/opensheaf-manager-test/",
+  "baseUrl": "https://mgubi.github.io/opensheaf-manager-test/",
+  "profiles": [
+    "website"
+  ],
+  "storageLayout": "opensheaf-owner-name-storage-layout",
+  "mainCollection": "main",
+  "curator": {
+    "name": "Gubinelli, Massimiliano",
+    "givenName": "Massimiliano",
+    "familyName": "Gubinelli",
+    "affiliation": ""
+  },
+  "depositor": {
+    "name": "Massimiliano Gubinelli",
+    "address": "https://mgubi.github.io/opensheaf-manager-test/"
+  },
+  "index": {
+    "html": {
+      "templates": "templates"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "format": "opensheaf-archive/0.2",
+  "specification": "0.2",
+  "name": "OpenSheaf manager test (throwaway)",
+  "contact": "https://mgubi.github.io/opensheaf-manager-test/",
+  "storageRoot": "ocfl/",
+  "storageLayout": "opensheaf-owner-name-storage-layout",
+  "mainCollection": "sheaf:pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "profiles": [
+    "website"
+  ],
+  "extensions": [],
+  "owners": [
+    "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq"
+  ],
+  "indexes": {
+    "names": 2,
+    "owners": 2,
+    "sha512": 2
+  },
+  "objects": [
+    {
+      "id": "sheaf:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "kind": "owner",
+      "name": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "head": "v2",
+      "inventorySha512": "340f5d7625420ab5d8a749eeac0716a23b3088e033f1a038a524b057cb2dd0f907d59fd7858154ee8918d09e86df5ae9d06575e5cf79ee239dcd9486571ab5dc",
+      "status": "active"
+    },
+    {
+      "id": "sheaf:pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "kind": "collection",
+      "name": "pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "head": "v1",
+      "inventorySha512": "fa3fe3e4a2d1ac4c93d0ad47c92eef87b4af5df96f7d611774b09af21e0af467bc5e7e1515a56d003e19a8b4992bc8ceb07ed8615435df917ea1200ca0cd8a4a",
+      "status": "active",
+      "label": "main"
+    }
+  ]
+}

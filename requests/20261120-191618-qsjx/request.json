@@ -1,9 +1,0 @@
-{
-  "operation": "notice",
-  "fields": {
-    "Label": "linking-numbers",
-    "Document version it is about": "1",
-    "Text of the notice": "Test notice from the manager (throwaway archive): version 1 has a typo in the abstract, corrected in version 2."
-  },
-  "files": {}
-}

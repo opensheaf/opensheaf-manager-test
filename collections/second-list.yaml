@@ -1,0 +1,13 @@
+# The members of a collection of this archive, in order, for
+# `osheaf collection sync LABEL --from collections/LABEL.yaml`: kept by the
+# issue forms of this repository (Issues, New issue), the OpenSheaf manager,
+# or by hand (see the README). A member is a line of this archive, by its
+# label (`label: kpz-uniqueness`), or of any archive, by its sheaf: URI and
+# the base URLs of archives that hold it (`uri: sheaf:<name>:<owner>`,
+# `at: [https://example.org/papers/]`). In a selection, `revisions` lists the
+# document versions vetted (1, 2, ...); in a catalogue, `follow: true` follows
+# the line to its latest signed version.
+title: Second test list
+type: selection
+order: manual
+members: []

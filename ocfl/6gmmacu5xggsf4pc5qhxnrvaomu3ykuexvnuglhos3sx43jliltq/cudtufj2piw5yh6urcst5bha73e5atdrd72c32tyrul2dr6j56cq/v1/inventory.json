@@ -1,0 +1,74 @@
+{
+  "digestAlgorithm": "sha512",
+  "fixity": {
+    "md5": {
+      "7c3c748bab6837aedf3ce772fb380153": [
+        "v1/content/datacite.json"
+      ],
+      "2304a1906c96caf826dec241dd5e1120": [
+        "v1/content/genesis.json"
+      ],
+      "f7ae92a60c7dc86a6a6d4aa830d2991f": [
+        "v1/content/members.json"
+      ],
+      "ef58505083436edc2466397ced7373e0": [
+        "v1/content/object.json"
+      ]
+    },
+    "sha256": {
+      "4438e2a15ba44fd3ef1b711b56ac72107e5b239b751d9409af74c5cf86306712": [
+        "v1/content/datacite.json"
+      ],
+      "21e8fe5c3e9744e2a2356c86b2bfc13bf396a24531ecfe362b526f37062e50e8": [
+        "v1/content/genesis.json"
+      ],
+      "65d0939385711ed682a7c120794e3d484c6ec736432bd1f25539e11d2317ed60": [
+        "v1/content/members.json"
+      ],
+      "e34f1b40ad7e17d01e7fcc57444ad5eda9793804c07c648fd5e1328455914f6f": [
+        "v1/content/object.json"
+      ]
+    }
+  },
+  "head": "v1",
+  "id": "sheaf:cudtufj2piw5yh6urcst5bha73e5atdrd72c32tyrul2dr6j56cq:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "manifest": {
+    "42876c69f3f27f930b37cbb1584584fdcebf1688ad3b8f9d2444b9f9d8b490cd839215fcbec20c7c5e4752bcc98351dc09481b1b0febc5c2871dd372f3e69db3": [
+      "v1/content/datacite.json"
+    ],
+    "824d97786f7a936485220d43839ffe3ff41483408eb6ead35b136a3b93941c01697fd04763f6dd07dfc07efcc925c004af5a7bd84da6153da6a111f1c0e1f6fa": [
+      "v1/content/genesis.json"
+    ],
+    "6ab439d1f227cdf8c68840d1507fa780a1ad304ad33590892136ab31e50bca97041d9afb62bbdccb8ab70bb5555c5c174de22e436d4491ef6a421ede6af9391c": [
+      "v1/content/members.json"
+    ],
+    "e400bd63c862e225186caf00c7fde972b1f077d93289357fea2fbdad91bc83341e3e1e9b2eb84f2b5398a5928d730383510cfbb57b882e7d2c48a4d1f7fd190d": [
+      "v1/content/object.json"
+    ]
+  },
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2026-11-20T19:40:32Z",
+      "state": {
+        "42876c69f3f27f930b37cbb1584584fdcebf1688ad3b8f9d2444b9f9d8b490cd839215fcbec20c7c5e4752bcc98351dc09481b1b0febc5c2871dd372f3e69db3": [
+          "datacite.json"
+        ],
+        "824d97786f7a936485220d43839ffe3ff41483408eb6ead35b136a3b93941c01697fd04763f6dd07dfc07efcc925c004af5a7bd84da6153da6a111f1c0e1f6fa": [
+          "genesis.json"
+        ],
+        "6ab439d1f227cdf8c68840d1507fa780a1ad304ad33590892136ab31e50bca97041d9afb62bbdccb8ab70bb5555c5c174de22e436d4491ef6a421ede6af9391c": [
+          "members.json"
+        ],
+        "e400bd63c862e225186caf00c7fde972b1f077d93289357fea2fbdad91bc83341e3e1e9b2eb84f2b5398a5928d730383510cfbb57b882e7d2c48a4d1f7fd190d": [
+          "object.json"
+        ]
+      },
+      "message": "New collection second-list (request 20261120-194007-qrtu)",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    }
+  }
+}

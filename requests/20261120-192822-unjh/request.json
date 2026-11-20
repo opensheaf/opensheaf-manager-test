@@ -1,0 +1,17 @@
+{
+  "operation": "deposit",
+  "fields": {
+    "This deposit": "A new paper",
+    "Label": "test-1",
+    "Title": "A test paper deposited from the manager",
+    "Authors": "Gubinelli, Massimiliano|University of Oxford",
+    "Abstract": "A throwaway paper to test deposits through the OpenSheaf manager.",
+    "Licence": "CC BY 4.0 (cc-by-4.0)",
+    "If there are no sources, why": "A test deposit: only a PDF exists."
+  },
+  "files": {
+    "PDF of this version": [
+      "test-paper.pdf"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
   "name": "OpenSheaf manager test (throwaway)",
   "contact": "https://mgubi.github.io/opensheaf-manager-test/",
-  "baseUrl": "https://mgubi.github.io/opensheaf-manager-test/",
+  "baseUrl": "https://mgubi.org/opensheaf-manager-test/",
   "profiles": [
     "website"
   ],

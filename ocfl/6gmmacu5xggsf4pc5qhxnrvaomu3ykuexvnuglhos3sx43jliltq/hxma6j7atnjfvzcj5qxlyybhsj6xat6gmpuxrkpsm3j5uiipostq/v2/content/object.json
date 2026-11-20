@@ -1,0 +1,51 @@
+{
+  "format": "opensheaf-object/0.2",
+  "specification": "0.2",
+  "kind": "document",
+  "name": "hxma6j7atnjfvzcj5qxlyybhsj6xat6gmpuxrkpsm3j5uiipostq",
+  "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "documentVersion": 2,
+  "mainSource": "source/1808.10167.tex",
+  "sourceFormat": "application/x-tex",
+  "renditions": [
+    {
+      "path": "paper.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "changes": {
+    "text": "15 pages, no figures, v2 as to appear in Lett. Math. Phys"
+  },
+  "external": [
+    {
+      "role": "source",
+      "service": "arXiv",
+      "record": "https://arxiv.org/abs/1808.10167v2",
+      "doi": "10.48550/arXiv.1808.10167",
+      "label": "v2",
+      "files": [
+        {
+          "name": "v2.pdf",
+          "sha512": "ad603ccce0487a755e75cb76cbe616b358c3131277d2d33d13544be5364676855e54342dc6cdeb5ce87457b8304cd5ed3606c1e2bd5df11c0a44a7f748cd3d97",
+          "md5": "ab397949404a777f010f4bc5fc20c318",
+          "bytes": 143699
+        },
+        {
+          "name": "v2-source.gz",
+          "sha512": "5fb8d308dde0eb3b050c3e58cc906b01267aadc95e090e19d02296161acca1ee3cf49f798077275a593c86d470843cd9cf0139c07b2e65d9fe9cdd910da0e46e",
+          "md5": "75ddcf9650f6a3c937e7f573a1f84077",
+          "bytes": 15248
+        }
+      ]
+    }
+  ],
+  "status": "active",
+  "agreement": {
+    "by": [
+      "Pinco, Pallino"
+    ],
+    "date": "2026-11-20",
+    "method": "permission of the authors to deposit it from arXiv: by communication"
+  },
+  "previous": "a78b806f4088539e5d1418a2cf2a8cded01649c1aafe9ae0304326447196468136b2540ab7d9299e55bed69a6b7d59815ad24dfca078cb3a6e348cce221a73d6"
+}

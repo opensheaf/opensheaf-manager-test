@@ -1,0 +1,104 @@
+{
+  "titles": [
+    {
+      "title": "Linking numbers in local quantum field theory"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Buchholz, Detlev",
+      "nameType": "Personal",
+      "familyName": "Buchholz",
+      "givenName": "Detlev"
+    },
+    {
+      "name": "Ciolli, Fabio",
+      "nameType": "Personal",
+      "familyName": "Ciolli",
+      "givenName": "Fabio"
+    },
+    {
+      "name": "Ruzzi, Giuseppe",
+      "nameType": "Personal",
+      "familyName": "Ruzzi",
+      "givenName": "Giuseppe"
+    },
+    {
+      "name": "Vasselli, Ezio",
+      "nameType": "Personal",
+      "familyName": "Vasselli",
+      "givenName": "Ezio"
+    }
+  ],
+  "publisher": {
+    "name": "OpenSheaf manager test (throwaway)"
+  },
+  "publicationYear": 2018,
+  "types": {
+    "resourceTypeGeneral": "Preprint"
+  },
+  "version": "2",
+  "url": "https://opensheaf.org/opensheaf-manager-test/paper/linking-numbers/",
+  "dates": [
+    {
+      "date": "2018-08-30",
+      "dateType": "Issued"
+    },
+    {
+      "date": "2018-10-22",
+      "dateType": "Available"
+    }
+  ],
+  "language": "en",
+  "formats": [
+    "application/pdf",
+    "application/x-tex"
+  ],
+  "subjects": [
+    {
+      "subject": "math-ph",
+      "subjectScheme": "arXiv"
+    },
+    {
+      "subject": "hep-th",
+      "subjectScheme": "arXiv"
+    },
+    {
+      "subject": "math.MP",
+      "subjectScheme": "arXiv"
+    },
+    {
+      "subject": "quant-ph",
+      "subjectScheme": "arXiv"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "arXiv.org perpetual, non-exclusive license to distribute; all other rights reserved to the authors",
+      "rightsUri": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Linking numbers appear in local quantum field theory in the presence of tensor fields, which are closed two-forms on Minkowski space. Given any pair of such fields, it is shown that the commutator of the corresponding intrinsic (gauge invariant) vector potentials, integrated about spacelike separated, spatial loops, are elements of the center of the algebra of all local fields. Moreover, these commutators are proportional to the linking numbers of the underlying loops. If the commutators are different from zero, the underlying two-forms are not exact (there do not exist local vector potentials for them). The theory then necessarily contains massless particles. A prominent example of this kind, due to J.E. Roberts, is given by the free electromagnetic field and its Hodge dual. Further examples with more complex mass spectrum are presented in this article.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "arXiv:1808.10167v2",
+      "relatedIdentifierType": "arXiv",
+      "relationType": "IsIdenticalTo"
+    },
+    {
+      "relatedIdentifier": "10.48550/arXiv.1808.10167",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsVersionOf"
+    },
+    {
+      "relatedIdentifier": "10.1007/s11005-018-1136-2",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPreprintOf"
+    }
+  ]
+}

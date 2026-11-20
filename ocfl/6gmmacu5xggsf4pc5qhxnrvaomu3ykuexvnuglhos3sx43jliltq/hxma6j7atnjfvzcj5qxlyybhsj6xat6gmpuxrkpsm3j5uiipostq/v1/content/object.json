@@ -1,0 +1,50 @@
+{
+  "format": "opensheaf-object/0.2",
+  "specification": "0.2",
+  "kind": "document",
+  "name": "hxma6j7atnjfvzcj5qxlyybhsj6xat6gmpuxrkpsm3j5uiipostq",
+  "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "documentVersion": 1,
+  "mainSource": "source/1808.10167.tex",
+  "sourceFormat": "application/x-tex",
+  "renditions": [
+    {
+      "path": "paper.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "changes": {
+    "text": "15 pages, no figures"
+  },
+  "external": [
+    {
+      "role": "source",
+      "service": "arXiv",
+      "record": "https://arxiv.org/abs/1808.10167v1",
+      "doi": "10.48550/arXiv.1808.10167",
+      "label": "v1",
+      "files": [
+        {
+          "name": "v1.pdf",
+          "sha512": "4b6d6ccfce1a3e2f21b63b0e207b80449db2ff180b262e99effc916557b7c720ee2b749496b6b402fb2e77879f81db1a0355c74a69be8ea5e2d6620ab53ca1c8",
+          "md5": "c6a71af39de2aad6eca2e881cce9a8e8",
+          "bytes": 174680
+        },
+        {
+          "name": "v1-source.gz",
+          "sha512": "0281663de551c08111069826eddc4b14ab0dcf65652263f0ba1529cc1269f5ef0c1be67cee3f9fb26d15116e067533d135a55296bc47a5ac4e76240c0f0e4528",
+          "md5": "e60aae47c911173bf552a81510a97fd0",
+          "bytes": 16427
+        }
+      ]
+    }
+  ],
+  "status": "active",
+  "agreement": {
+    "by": [
+      "Pinco, Pallino"
+    ],
+    "date": "2026-11-20",
+    "method": "permission of the authors to deposit it from arXiv: by communication"
+  }
+}

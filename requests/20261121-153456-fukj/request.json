@@ -1,0 +1,9 @@
+{
+  "operation": "notice",
+  "fields": {
+    "Label": "test-1",
+    "Document version it is about": "1",
+    "Text of the notice": "Second test of the floating messages and the Activity bar."
+  },
+  "files": {}
+}

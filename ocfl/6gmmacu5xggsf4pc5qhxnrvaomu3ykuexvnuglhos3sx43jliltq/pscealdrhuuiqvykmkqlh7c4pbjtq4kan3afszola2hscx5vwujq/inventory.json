@@ -22,6 +22,9 @@
       ],
       "38977507887689b6cb750e8769b1f2f9": [
         "v3/content/object.json"
+      ],
+      "97377b35e70c4b311d546dc66e872ae0": [
+        "v4/content/object.json"
       ]
     },
     "sha256": {
@@ -45,10 +48,13 @@
       ],
       "a9eb53ea436e1d397aadd11e9a0539c4975a7b0bfffd6fe657b4e588e19ab6d8": [
         "v3/content/object.json"
+      ],
+      "e82069bb4a1ba9c6191f2492e2447ff5d8d515e164a3d870c3ad734ccca1a6f2": [
+        "v4/content/object.json"
       ]
     }
   },
-  "head": "v3",
+  "head": "v4",
   "id": "sheaf:pscealdrhuuiqvykmkqlh7c4pbjtq4kan3afszola2hscx5vwujq:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
   "manifest": {
     "c46cf48372c498152c424d1d4fc121f117fdc60b6fa19945b75c85539ae6324d5f3ad64b6d700fd3679512c44c70e2a16c35bd511fc3a6b1aea535265d9ebf41": [
@@ -71,6 +77,9 @@
     ],
     "bcd852a102be533c1f1b8d754aed76b6e4e0fe22fc68b1c2ed6d79d17c90a3022a6767efd14364270b10e64a49b3e43f3c8723133d17c527ae371c499f81ff95": [
       "v3/content/object.json"
+    ],
+    "1fa4eaae4b011749185c4a366330aa0702b3f3611985607ed36462f8f3165ca7b9a02310689857cc9cc5d81bb7c4c16585a99353e2e172cc6bd9ac340aaebd4a": [
+      "v4/content/object.json"
     ]
   },
   "type": "https://ocfl.io/1.1/spec/#inventory",
@@ -136,6 +145,28 @@
         ]
       },
       "message": "Notice from request 20261121-150541-armb",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v4": {
+      "created": "2026-11-21T15:35:22Z",
+      "state": {
+        "d537da68ba25d246c2416fdfa44d9e95fedd75ff72c8d2df39b3c5621911d5ad20a28cc87476551a683ec53351a74ecf83144f38bd66b0e8c2e654758714ac46": [
+          "datacite.json"
+        ],
+        "3a79d52fe5338bbd80b69ace1799eb2f45f89146acb083fbc630bc69d3ea916fc4901a636ff6d04ec06141b6f89418c4b208ae860c32a5424c0cfbfbc9c4d839": [
+          "genesis.json"
+        ],
+        "1fa4eaae4b011749185c4a366330aa0702b3f3611985607ed36462f8f3165ca7b9a02310689857cc9cc5d81bb7c4c16585a99353e2e172cc6bd9ac340aaebd4a": [
+          "object.json"
+        ],
+        "f4f0011f154ac6bbef7b2f75979c9acc808bac189bff4777c4df5dc579ec48dddd3525726e549e933b8705b2af2e4f9d7b8adc00666cbd49fd554a5d820564c8": [
+          "paper.pdf"
+        ]
+      },
+      "message": "Notice from request 20261121-153456-fukj",
       "user": {
         "name": "Massimiliano Gubinelli",
         "address": "https://opensheaf.org/opensheaf-manager-test/"

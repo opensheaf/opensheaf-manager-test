@@ -1,0 +1,466 @@
+{
+  "digestAlgorithm": "sha512",
+  "fixity": {
+    "md5": {
+      "139b1cf75764be49c42ac9d0f9246f05": [
+        "v1/content/datacite.json"
+      ],
+      "4f59e225380c172ab209beb52a852cb8": [
+        "v1/content/genesis.json"
+      ],
+      "ce78e73b480c238e823c466a96e24a3a": [
+        "v1/content/members.json"
+      ],
+      "06d0f423e4ac5a539c46b64ca53a0aa1": [
+        "v1/content/object.json"
+      ],
+      "1bd4a5d3de02285425c77c8899de9ddf": [
+        "v2/content/datacite.json"
+      ],
+      "580dc73d1b8a1d4a4f3c4797b8dbb962": [
+        "v2/content/members.json"
+      ],
+      "7bd44b5e5e946e8c10ac31670fe22618": [
+        "v2/content/object.json"
+      ],
+      "e37791ab802c9b585f12df6d3b4e3cd7": [
+        "v3/content/datacite.json"
+      ],
+      "3507bbc0f4155f48c9f5c78d6ab7eff9": [
+        "v3/content/members.json"
+      ],
+      "88e1eaea616d68f65e5ce8863aaa5fc2": [
+        "v3/content/object.json"
+      ],
+      "64cf128e4f872567bd060120ff3ae628": [
+        "v4/content/datacite.json"
+      ],
+      "940493622c0bad1bdd0535f006adcb23": [
+        "v4/content/members.json"
+      ],
+      "c7875a385767b23da5079abb48d66df8": [
+        "v4/content/object.json"
+      ],
+      "b6315ae528eb7830717b0e28a3a75556": [
+        "v5/content/datacite.json"
+      ],
+      "bd25f8230b3bdd5d408df20c6093143e": [
+        "v5/content/members.json"
+      ],
+      "79ba460595e7b04499bf41eecf9415a8": [
+        "v5/content/object.json"
+      ],
+      "b8d5db919d655a65e959fcdbea48b490": [
+        "v6/content/datacite.json"
+      ],
+      "fb6e3fad1a7a5b78dd97ca39bee91f7b": [
+        "v6/content/members.json"
+      ],
+      "5a726eadd4f010c00969c3027dc24946": [
+        "v6/content/object.json"
+      ],
+      "d04f95f1b72bd49e15a8048fa340c245": [
+        "v7/content/datacite.json"
+      ],
+      "5cdb66006898a48402726b8855b32612": [
+        "v7/content/members.json"
+      ],
+      "855211848e40b377f05ccd5b3bcfcd88": [
+        "v7/content/object.json"
+      ],
+      "f159af060dc9066135092d0134f008b1": [
+        "v8/content/datacite.json"
+      ],
+      "1d18b961ed2f3a49b09e94e5911bef8a": [
+        "v8/content/members.json"
+      ],
+      "5dc5c9992df3fa70f51c5fc637dfeab3": [
+        "v8/content/object.json"
+      ],
+      "a5643be7a734e2ae0a5e46a11484fefc": [
+        "v9/content/datacite.json"
+      ],
+      "8932fbaf2939ea43cad9c22e3ae5a9f6": [
+        "v9/content/members.json"
+      ],
+      "42b45b653ab70dece2127cfee517eb67": [
+        "v9/content/object.json"
+      ]
+    },
+    "sha256": {
+      "f2d380955781ba75179760aecc7ec27a2c15712aab55e019e1592581684dc891": [
+        "v1/content/datacite.json"
+      ],
+      "4766e78133cbf4637dd771636c2e93ddd5d55519bade40f0689edf1efe8ee8a6": [
+        "v1/content/genesis.json"
+      ],
+      "13ec1f486257a2cfbb71ae7e46abbe0791e6c4145505ae9116a8220a5e0ad9d8": [
+        "v1/content/members.json"
+      ],
+      "6ac67e7304fe13371bdd7aeeb778da10df842dda2cf6a33609b8a134268286aa": [
+        "v1/content/object.json"
+      ],
+      "0ad687e0dc7812e0b71981e7c0ab2f1703bebf0aaf00b69c6a85bef9a55e1def": [
+        "v2/content/datacite.json"
+      ],
+      "49fb752a2fc3ac2a5816c2236ccfdc2189293567e681a893d9c853bdf07d8a82": [
+        "v2/content/members.json"
+      ],
+      "e723ac47ea569cb053ee6bbf8d225881f3a1e3375bc1d931e2ee5bdbddf87a52": [
+        "v2/content/object.json"
+      ],
+      "88d3e8af85b82b246f9a68779613ee2306c96ae28d5e11ba3692796364aad062": [
+        "v3/content/datacite.json"
+      ],
+      "216cf4beb6df61c3ce5d91fa9c8b0b18c58cc1c7e230a1d818cb17cbcbd3fbe7": [
+        "v3/content/members.json"
+      ],
+      "a28e3f64057c1e13ea829f77d8e2e443099860284961bcde222ecfefccb49de2": [
+        "v3/content/object.json"
+      ],
+      "83ee6db16157a56b76cf7a4ae93ea0a3f55bf17cbe8a0a0fe392b2632669502c": [
+        "v4/content/datacite.json"
+      ],
+      "7d99d25bfe81c0057818222d24a37e797a1e71cc849fef66392b62de79c2e115": [
+        "v4/content/members.json"
+      ],
+      "a533741095b3a70d12e179d4430dc7ad5775f03e8fbc7a2db1d9005ca63bf99b": [
+        "v4/content/object.json"
+      ],
+      "568f24f213e24dc137fac77fc504faf6fff5b2be67d8f7e0ccb5045b889a9c71": [
+        "v5/content/datacite.json"
+      ],
+      "09a5c535b68c0deaede6f93f63a7b37ddedb2fc278287dda173152ae12339639": [
+        "v5/content/members.json"
+      ],
+      "911052937d1b9e04bea463990a68e7e554a19ab4587e5ac7dd7068a64f3cba60": [
+        "v5/content/object.json"
+      ],
+      "cbaf136e207b5b0d0b40d1e2d44f988ddde9e2eaba0b28b120e1f5d0fbb47b86": [
+        "v6/content/datacite.json"
+      ],
+      "a9a31008e13eea35e1a9131f77273423a60de8a940a2f929c4506f84e86d3124": [
+        "v6/content/members.json"
+      ],
+      "1b52025a7201d9291ad970fe6d328766c199167f4d5fa5039404f81de6a73b45": [
+        "v6/content/object.json"
+      ],
+      "369c9b52e0938ed071128cb54ba36a52c31c9cb4b0861ca402fc60ed81e9cf7c": [
+        "v7/content/datacite.json"
+      ],
+      "d4cda8a23929f514e388f6224078a9d6fc3016122b158ec011cd3907d8f28f7d": [
+        "v7/content/members.json"
+      ],
+      "620888068c6790b0f440d54d145cdb9dd5ee630d2dd546f686658d9219d9fb76": [
+        "v7/content/object.json"
+      ],
+      "a9c7e52578c6bbf316ec991212917f7dd25dea5af0f1be8600c7b653ca6ce5d9": [
+        "v8/content/datacite.json"
+      ],
+      "95bd17290d096265eac1aaae389d805bbebcedc6f06484fa9ba54b77986b1771": [
+        "v8/content/members.json"
+      ],
+      "42ecb260e6f86fb0d1b8b13f9d7bcf975f6994e275a410c87bb246574daa3fad": [
+        "v8/content/object.json"
+      ],
+      "d47dc1954067bf81d998631d48ee2c60b526128fcae3142095cc57d77994e871": [
+        "v9/content/datacite.json"
+      ],
+      "ac1655de8b2f41b82dd3dfd8d005f6f8c8277c5686fd9aea620b1f8b384acd06": [
+        "v9/content/members.json"
+      ],
+      "9a9c2a2ac93f81e0746593e6739a259bc6c72ccf4d4b0d735fab8460b306fe49": [
+        "v9/content/object.json"
+      ]
+    }
+  },
+  "head": "v9",
+  "id": "sheaf:pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "manifest": {
+    "748c546bd7880856ad028445dc78ae9f341894404c3d9e26c699f683a12c01aa8bf3d220d14488dba24158720a89ae124b8131c3499cef2b1f2b3e84f278f436": [
+      "v1/content/datacite.json"
+    ],
+    "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+      "v1/content/genesis.json"
+    ],
+    "c84b47b4bcab285af5fdc04d3a10cdecc04e579ca8a47c154800cf28f165865bd37e6b057639d32013283492320c2c553b6f5c1034c13ed81ab3ecd07f154dc9": [
+      "v1/content/members.json"
+    ],
+    "beaf8c18e61a601cfbc81d3528af1721ec581be641d2b3331374fad593ad57ce66ede648ebb4135e437e4215f31cef91142e1f6d9e60297b7c096d273d0b069e": [
+      "v1/content/object.json"
+    ],
+    "e31b66763f35c90e06c5f9d3d113f95638a722c897b165ad8c3fea02719fb4cc8ae7a86aa19c3f28ea1ccff09765db450529399cc9e9c49251cd332a62e097f4": [
+      "v2/content/datacite.json"
+    ],
+    "5d369bf3c5814fe8879fd5e7f5aa4fc4a459b7c158c86cc6e19f4f3a0fd6921b228b9e7033e727596419a6e4fab9776340ed8f5a5341e1997cf2fdab29740971": [
+      "v2/content/members.json"
+    ],
+    "6cb3b932ea07e52292b434472b8badfe9e881df5bc7551343532c191e1021e298e765213f6deadf58642580614deb8877343b6138f728d8a08d8f07e44612833": [
+      "v2/content/object.json"
+    ],
+    "f70f9190d9c80f2af50432e1f47e9b6667282f2204ccd0891f2fc26d970bcfde34f8fbb3f297d23d2745f9ad0590e152b759fc47a81284b74680aa38912de977": [
+      "v3/content/datacite.json"
+    ],
+    "c8868e31cd6ff16e038ca68d7e845999e124c32e714cbd9b7b6bbcd50ad6f52ec948c62b92c2796196e70142dda6ab4567e2bfde71c0445bb73c9e456dbed87b": [
+      "v3/content/members.json"
+    ],
+    "a9563c6511a75747d16c0252ad59323928621afb151fa16cac6a5938498522884bf07a56905371010e510cb08bdefcfb32e13fa34b01b1df503c1f8c79a67ab7": [
+      "v3/content/object.json"
+    ],
+    "58dc58fa71f63833f9027eff2d118709c76618541915ca5141cf97585926126f8e29d0740fc9a3ae67c17ea034311a2c3b99977d57c16bfabe2a206fc9d47dfc": [
+      "v4/content/datacite.json"
+    ],
+    "b8bfa764243fb711a3451db519f2722614b7dade4262569922aa23b043a4402d307ec43f40d48377cdcf3febe017758e8bc11d9e2b8629e5a4427f4988415d97": [
+      "v4/content/members.json"
+    ],
+    "a744e35277d7815920e84557baf1a93a64a6f0ef30a8c382cdfcb29e651052f78bf8a516486971255631b581594af6b88f9cc74d5a145f01ad5b294928ff77b2": [
+      "v4/content/object.json"
+    ],
+    "2da61f9ea9cf7cec9fb31b72067858a2ffa9796098f97ec14f97dce1ef6fb47f324569e1690b7b15679f06a0dd8bbe830124700afd3576384e651399999b01ee": [
+      "v5/content/datacite.json"
+    ],
+    "33017c128fc0099313cb35989450ad81b4c9828f3baa4bf157f688551f04f8a3d072365106a19ee5e00750f2123420300e9643c64b098330781282841b41689b": [
+      "v5/content/members.json"
+    ],
+    "697b6ec89fd5de9b8b43b1c91881128ef61719c16f38979132dda2b816e5cdff4ab6cd5988bf72f179f10d99eea2df7448d611fd340c739c5aa66e3c711c8891": [
+      "v5/content/object.json"
+    ],
+    "c4f0d4894e8e9c747f105dd4470fb9a7522482337b767118334e7195f3ad1dbf33d5bcc230d4af777818fb1f5dc25b222325eee7d6236da0c7615d53737b87be": [
+      "v6/content/datacite.json"
+    ],
+    "5f735fce49b5d3239e3f58b7de88179f5cf5c8479b9fc5fa995393f0191d5d071275371e06076cfeb619b59fe647e4b42fc68a9afbde29c60f8f48950c4bd044": [
+      "v6/content/members.json"
+    ],
+    "b66cd486050c2187be9efbcb58d5e2b03fb3ec367ce70e81c0cf211429b3a69e1c398bb873a7bfccd6d281aa2f05f879e46bc7005c19fe7edcb2490f27bda565": [
+      "v6/content/object.json"
+    ],
+    "c2e2b7db3a4b91ab5e562003720c3faf046811938ce44c6dd24f25daba75098fb54d8f029888a4eb07f5bd1f33d5284fce9a18d7d2f70fb33913fe13320c704e": [
+      "v7/content/datacite.json"
+    ],
+    "eaee94b26312dd46052d7046d95bf787b3303057da3f124a3235dfa6afc7086e1812a6e54743ce65a76a914d56bade96b236edde02260a32b8e9866a63e47311": [
+      "v7/content/members.json"
+    ],
+    "759dd22b4039a7368f1dc60d8db4c3ea0254d53d4ec7a2bc7f9949a4a65690694041bea24b53b9c2547d8e1cbd3ae8af3ec319d7e606bb51ec0b661b51108676": [
+      "v7/content/object.json"
+    ],
+    "6acfc4f5ddfa8efdae85c9051dfd9b4bff8cdf536f79be646de6f4ffe6ef73b95b230f088c96c55f82fb704e110ae69ce3bcfec59aa87fd77b7c67a569923e4b": [
+      "v8/content/datacite.json"
+    ],
+    "7a3c7d4cd7466cab7b998824c14150cf2e9e2591c6aa0828647c1ce72c6d56d216ae59debdc16b4366a201f3101440f454350f8c1141544c54a9c1f7f987791e": [
+      "v8/content/members.json"
+    ],
+    "a0457043453d3f56f054ae4a8efbae5a923312296890a76534efc3e399dedcb7ec8dedf7d936d0e7aa18cde32d637f2d32c3ee4a851ceb3b83dada7439c39909": [
+      "v8/content/object.json"
+    ],
+    "11344501d15be165dc3ff8038a9740374dd838d3cbce698a4a8f69e6449f371b429e8639b61eb30d0ae7075308a3c97e48de950c1b326c6a5d833c755ee050fd": [
+      "v9/content/datacite.json"
+    ],
+    "3c6d12004927f9faff33f0f7a061c6af356bda6ae0840cedba75473ef6f5f68f60670e948ff73c21b4c7e230e8e489ad1cd5887ed4d8a66720c236f18982fe9a": [
+      "v9/content/members.json"
+    ],
+    "31882f507f205b91e78e671764ae16ffe636cd3ea49751a2c7a2aba614801fcca1e989eb1d789ed298d5d2364ddf3246a9c60ef3de346a557c3d05ff98ebeb96": [
+      "v9/content/object.json"
+    ]
+  },
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2026-11-20T18:21:43Z",
+      "state": {
+        "748c546bd7880856ad028445dc78ae9f341894404c3d9e26c699f683a12c01aa8bf3d220d14488dba24158720a89ae124b8131c3499cef2b1f2b3e84f278f436": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "c84b47b4bcab285af5fdc04d3a10cdecc04e579ca8a47c154800cf28f165865bd37e6b057639d32013283492320c2c553b6f5c1034c13ed81ab3ecd07f154dc9": [
+          "members.json"
+        ],
+        "beaf8c18e61a601cfbc81d3528af1721ec581be641d2b3331374fad593ad57ce66ede648ebb4135e437e4215f31cef91142e1f6d9e60297b7c096d273d0b069e": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 1: 0 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://mgubi.github.io/opensheaf-manager-test/"
+      }
+    },
+    "v2": {
+      "created": "2026-11-20T19:02:40Z",
+      "state": {
+        "e31b66763f35c90e06c5f9d3d113f95638a722c897b165ad8c3fea02719fb4cc8ae7a86aa19c3f28ea1ccff09765db450529399cc9e9c49251cd332a62e097f4": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "5d369bf3c5814fe8879fd5e7f5aa4fc4a459b7c158c86cc6e19f4f3a0fd6921b228b9e7033e727596419a6e4fab9776340ed8f5a5341e1997cf2fdab29740971": [
+          "members.json"
+        ],
+        "6cb3b932ea07e52292b434472b8badfe9e881df5bc7551343532c191e1021e298e765213f6deadf58642580614deb8877343b6138f728d8a08d8f07e44612833": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 2: 1 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v3": {
+      "created": "2026-11-20T19:16:45Z",
+      "state": {
+        "f70f9190d9c80f2af50432e1f47e9b6667282f2204ccd0891f2fc26d970bcfde34f8fbb3f297d23d2745f9ad0590e152b759fc47a81284b74680aa38912de977": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "c8868e31cd6ff16e038ca68d7e845999e124c32e714cbd9b7b6bbcd50ad6f52ec948c62b92c2796196e70142dda6ab4567e2bfde71c0445bb73c9e456dbed87b": [
+          "members.json"
+        ],
+        "a9563c6511a75747d16c0252ad59323928621afb151fa16cac6a5938498522884bf07a56905371010e510cb08bdefcfb32e13fa34b01b1df503c1f8c79a67ab7": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 3: 1 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v4": {
+      "created": "2026-11-20T19:28:49Z",
+      "state": {
+        "58dc58fa71f63833f9027eff2d118709c76618541915ca5141cf97585926126f8e29d0740fc9a3ae67c17ea034311a2c3b99977d57c16bfabe2a206fc9d47dfc": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "b8bfa764243fb711a3451db519f2722614b7dade4262569922aa23b043a4402d307ec43f40d48377cdcf3febe017758e8bc11d9e2b8629e5a4427f4988415d97": [
+          "members.json"
+        ],
+        "a744e35277d7815920e84557baf1a93a64a6f0ef30a8c382cdfcb29e651052f78bf8a516486971255631b581594af6b88f9cc74d5a145f01ad5b294928ff77b2": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 4: 2 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v5": {
+      "created": "2026-11-21T14:22:44Z",
+      "state": {
+        "2da61f9ea9cf7cec9fb31b72067858a2ffa9796098f97ec14f97dce1ef6fb47f324569e1690b7b15679f06a0dd8bbe830124700afd3576384e651399999b01ee": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "33017c128fc0099313cb35989450ad81b4c9828f3baa4bf157f688551f04f8a3d072365106a19ee5e00750f2123420300e9643c64b098330781282841b41689b": [
+          "members.json"
+        ],
+        "697b6ec89fd5de9b8b43b1c91881128ef61719c16f38979132dda2b816e5cdff4ab6cd5988bf72f179f10d99eea2df7448d611fd340c739c5aa66e3c711c8891": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 5: 2 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v6": {
+      "created": "2026-11-21T14:27:21Z",
+      "state": {
+        "c4f0d4894e8e9c747f105dd4470fb9a7522482337b767118334e7195f3ad1dbf33d5bcc230d4af777818fb1f5dc25b222325eee7d6236da0c7615d53737b87be": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "5f735fce49b5d3239e3f58b7de88179f5cf5c8479b9fc5fa995393f0191d5d071275371e06076cfeb619b59fe647e4b42fc68a9afbde29c60f8f48950c4bd044": [
+          "members.json"
+        ],
+        "b66cd486050c2187be9efbcb58d5e2b03fb3ec367ce70e81c0cf211429b3a69e1c398bb873a7bfccd6d281aa2f05f879e46bc7005c19fe7edcb2490f27bda565": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 6: 3 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v7": {
+      "created": "2026-11-21T14:28:14Z",
+      "state": {
+        "c2e2b7db3a4b91ab5e562003720c3faf046811938ce44c6dd24f25daba75098fb54d8f029888a4eb07f5bd1f33d5284fce9a18d7d2f70fb33913fe13320c704e": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "eaee94b26312dd46052d7046d95bf787b3303057da3f124a3235dfa6afc7086e1812a6e54743ce65a76a914d56bade96b236edde02260a32b8e9866a63e47311": [
+          "members.json"
+        ],
+        "759dd22b4039a7368f1dc60d8db4c3ea0254d53d4ec7a2bc7f9949a4a65690694041bea24b53b9c2547d8e1cbd3ae8af3ec319d7e606bb51ec0b661b51108676": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 7: 3 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v8": {
+      "created": "2026-11-21T15:06:06Z",
+      "state": {
+        "6acfc4f5ddfa8efdae85c9051dfd9b4bff8cdf536f79be646de6f4ffe6ef73b95b230f088c96c55f82fb704e110ae69ce3bcfec59aa87fd77b7c67a569923e4b": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "7a3c7d4cd7466cab7b998824c14150cf2e9e2591c6aa0828647c1ce72c6d56d216ae59debdc16b4366a201f3101440f454350f8c1141544c54a9c1f7f987791e": [
+          "members.json"
+        ],
+        "a0457043453d3f56f054ae4a8efbae5a923312296890a76534efc3e399dedcb7ec8dedf7d936d0e7aa18cde32d637f2d32c3ee4a851ceb3b83dada7439c39909": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 8: 3 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v9": {
+      "created": "2026-11-21T15:35:23Z",
+      "state": {
+        "11344501d15be165dc3ff8038a9740374dd838d3cbce698a4a8f69e6449f371b429e8639b61eb30d0ae7075308a3c97e48de950c1b326c6a5d833c755ee050fd": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "3c6d12004927f9faff33f0f7a061c6af356bda6ae0840cedba75473ef6f5f68f60670e948ff73c21b4c7e230e8e489ad1cd5887ed4d8a66720c236f18982fe9a": [
+          "members.json"
+        ],
+        "31882f507f205b91e78e671764ae16ffe636cd3ea49751a2c7a2aba614801fcca1e989eb1d789ed298d5d2364ddf3246a9c60ef3de346a557c3d05ff98ebeb96": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 9: 3 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    }
+  }
+}

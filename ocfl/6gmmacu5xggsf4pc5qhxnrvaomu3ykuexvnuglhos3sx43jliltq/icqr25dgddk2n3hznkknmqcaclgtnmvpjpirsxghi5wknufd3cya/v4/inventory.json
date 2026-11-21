@@ -1,0 +1,221 @@
+{
+  "digestAlgorithm": "sha512",
+  "fixity": {
+    "md5": {
+      "01825d7efff3542e68f22d28905e4b19": [
+        "v1/content/datacite.json"
+      ],
+      "d5f9b5eaf387ede18f2323745ba54b5f": [
+        "v1/content/genesis.json"
+      ],
+      "5fa0f6b909fdac391acc761ff224ffb1": [
+        "v1/content/members.json"
+      ],
+      "c2c2746a26199eb8f74aa0d6e746d4a3": [
+        "v1/content/object.json"
+      ],
+      "40bf8a15e7db2b3cc2897d9a0aafed79": [
+        "v2/content/datacite.json"
+      ],
+      "e146e2a874fddd5409d1752f71d7f1eb": [
+        "v2/content/members.json"
+      ],
+      "a9b69649aad25ab520f5f6d1f8761437": [
+        "v2/content/object.json"
+      ],
+      "e8a055474ef217ef43bb44f85c1ad7de": [
+        "v3/content/datacite.json"
+      ],
+      "4ff0a400449e37651f894dfd765e6e6e": [
+        "v3/content/members.json"
+      ],
+      "194d895799dce16c21d20718aafaf287": [
+        "v3/content/object.json"
+      ],
+      "528e787519c44fe3134ee9383af9accc": [
+        "v4/content/datacite.json"
+      ],
+      "05f9d8b5dd3b13dfd3a07fe3ea0d25e1": [
+        "v4/content/members.json"
+      ],
+      "82e2017d7d560d642ed7ac11b50a3922": [
+        "v4/content/object.json"
+      ]
+    },
+    "sha256": {
+      "0afb104e7162ad62ee9dc1a1823418f920899e608e2b52cbe31b635973eb24cb": [
+        "v1/content/datacite.json"
+      ],
+      "e4577e2e7d098a01ff0f02d25be9400344424e2490fc6875a86712c0ecb536eb": [
+        "v1/content/genesis.json"
+      ],
+      "ef4653675dd4b5d89a7b6f361058d953b7ea2862ac535bf88a1f9d5621f685ab": [
+        "v1/content/members.json"
+      ],
+      "73dcba39b9c726b5701f81a0af738a669523d2ba2cd11df41c7eb6c495947c61": [
+        "v1/content/object.json"
+      ],
+      "131e8c5d6e55f4803497c502c542288129b22f4da8b8cd878094e049c6f8f1d4": [
+        "v2/content/datacite.json"
+      ],
+      "d4ee70cec7970bf89d25b5be5d2f61be57fdcdf39a5314aa935771d8b740100c": [
+        "v2/content/members.json"
+      ],
+      "1dd824ec75eef4dc5f423ee2df68c8a2571053e8dd326cbeedb34ca80ca0af63": [
+        "v2/content/object.json"
+      ],
+      "36492e14eb1f6c1b4c70cfc36a51251ac4c20a24a175532a1f2f749abbc703bd": [
+        "v3/content/datacite.json"
+      ],
+      "5bffe0b3fd642daf9cc628f75377f68192ba4db6613fd29997edfd8c2ea30854": [
+        "v3/content/members.json"
+      ],
+      "b2efcc406e325d4edb575dec19bfa893ab5e630a4f005e179d9d873d0576b967": [
+        "v3/content/object.json"
+      ],
+      "d25bd76924fe0998d281639dfb53b171464f72aabb6af5178032f847656f839e": [
+        "v4/content/datacite.json"
+      ],
+      "623fefc34d460901bbddd2d3c9a2e0da773b184728cb541ce29a232466f99e42": [
+        "v4/content/members.json"
+      ],
+      "0688c0a3b77c6439438e1d31efb146ec5dd9efe8609f3075dbbe51b97c099fc7": [
+        "v4/content/object.json"
+      ]
+    }
+  },
+  "head": "v4",
+  "id": "sheaf:icqr25dgddk2n3hznkknmqcaclgtnmvpjpirsxghi5wknufd3cya:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "manifest": {
+    "515dc282789775c392e8b72a9ad830d07fb2a00b80bccd8f068174b239d44e8c40d1bc056889dccb0916c6c10ddb47c194d5bea2d2e564cd51c0a14478712903": [
+      "v1/content/datacite.json"
+    ],
+    "ec2a307617bf6104a126e770ad1eaede41ed39196aa536a72f601defe05f835f6565674bd7cae0994913c9e196c0dc69035d9da2e2024e4a840472d907a60757": [
+      "v1/content/genesis.json"
+    ],
+    "841664cbd0671d55ba91d21a24f06e70c1005a297af7fadee8e9f6a0bd5dca245d22028e7815e9962c1cd1291113f8c1847f22a271b7f33590c7154f5b2a1ccf": [
+      "v1/content/members.json"
+    ],
+    "31d2f338ebdffab90ef553449359fa8b45d88a0f8d2d7a031c643435b19f9f323e21735a541dcc07b0b34ceeb0c71ff8100d9c8f8a3f54088e4489c07eb8be60": [
+      "v1/content/object.json"
+    ],
+    "cff3e183fb8e83f34c3db1ffece03e2cdb5b587f4505c05572767255290cb5b05ec05ed16891e549a1f9d2793e627864cf7d8d6d0479e920b6f273e59f5a7e5b": [
+      "v2/content/datacite.json"
+    ],
+    "eff83f3d77a8ee292ca9ee8368301820f34d172e8146b2f74e12db692193bed726002fa7e8b9e83b6534a8f6b77a575b0a1f8e7d29e17efad683690cabbc6522": [
+      "v2/content/members.json"
+    ],
+    "ab576d01adf2f56223c7d5df5b68337b7d7fab6c614e09c6a50fa5f2b23c7272b839d633a56b5ccb7ca8878e9a55029d09c82a8b14f00f2297c2e21fdd4b4572": [
+      "v2/content/object.json"
+    ],
+    "f02a22f268b0fec97a4815ee5e3f79736553bf3e97888929b3ebbd9c149f55dd15660404d955be8cb4b4145ca6d5f4c82c6ff3024a6eb9a6a7c918da20ddecb7": [
+      "v3/content/datacite.json"
+    ],
+    "a240728157aa0d76564f9ac05062a8cc39873c5b60b37cef75aec21f251501602671d4d3b27a55a88d021f1467d753cf3a26eb0de5c44c7a721083808067b5cb": [
+      "v3/content/members.json"
+    ],
+    "4791be0abe34068f32d6835bcfd72900dbc2e760b7c2c605a99ac3ddae513487ab3d213033dbf9c43d61f6b36402639ec596c417c4ddbe5a94023b1e340080d5": [
+      "v3/content/object.json"
+    ],
+    "8c1c63b5b17b7b3249f5a85e608e0083646b2b7958a5934b55eb0fe104fd63048e63c71f7080f2e323592fd389ae2d5fe5625747ee46ccbf1a79ac88426fdf48": [
+      "v4/content/datacite.json"
+    ],
+    "a5950679029edf1c16ff8a8f604d9a9963495eda3381a17e0d9fbd5ec40d105d8dfd9ca6eda7efaf1a303828c1e54c931bfcccdb893f502bf0f228015f9e6294": [
+      "v4/content/members.json"
+    ],
+    "dfe0b4715ca33b3029a892a77086bc70941487c53ea61bbabc21f6504b3ab4c0613abe0810eebf11889950c65d5c46a671b276457ccbe0e8e1b7975f77b3d925": [
+      "v4/content/object.json"
+    ]
+  },
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2026-11-20T19:24:10Z",
+      "state": {
+        "515dc282789775c392e8b72a9ad830d07fb2a00b80bccd8f068174b239d44e8c40d1bc056889dccb0916c6c10ddb47c194d5bea2d2e564cd51c0a14478712903": [
+          "datacite.json"
+        ],
+        "ec2a307617bf6104a126e770ad1eaede41ed39196aa536a72f601defe05f835f6565674bd7cae0994913c9e196c0dc69035d9da2e2024e4a840472d907a60757": [
+          "genesis.json"
+        ],
+        "841664cbd0671d55ba91d21a24f06e70c1005a297af7fadee8e9f6a0bd5dca245d22028e7815e9962c1cd1291113f8c1847f22a271b7f33590c7154f5b2a1ccf": [
+          "members.json"
+        ],
+        "31d2f338ebdffab90ef553449359fa8b45d88a0f8d2d7a031c643435b19f9f323e21735a541dcc07b0b34ceeb0c71ff8100d9c8f8a3f54088e4489c07eb8be60": [
+          "object.json"
+        ]
+      },
+      "message": "New collection reading-list (request 20261120-192345-kjah)",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v2": {
+      "created": "2026-11-20T19:25:50Z",
+      "state": {
+        "cff3e183fb8e83f34c3db1ffece03e2cdb5b587f4505c05572767255290cb5b05ec05ed16891e549a1f9d2793e627864cf7d8d6d0479e920b6f273e59f5a7e5b": [
+          "datacite.json"
+        ],
+        "ec2a307617bf6104a126e770ad1eaede41ed39196aa536a72f601defe05f835f6565674bd7cae0994913c9e196c0dc69035d9da2e2024e4a840472d907a60757": [
+          "genesis.json"
+        ],
+        "eff83f3d77a8ee292ca9ee8368301820f34d172e8146b2f74e12db692193bed726002fa7e8b9e83b6534a8f6b77a575b0a1f8e7d29e17efad683690cabbc6522": [
+          "members.json"
+        ],
+        "ab576d01adf2f56223c7d5df5b68337b7d7fab6c614e09c6a50fa5f2b23c7272b839d633a56b5ccb7ca8878e9a55029d09c82a8b14f00f2297c2e21fdd4b4572": [
+          "object.json"
+        ]
+      },
+      "message": "Add linking-numbers to reading-list (request 20261120-192520-xfqv): Test: a member added from the manager.",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v3": {
+      "created": "2026-11-20T19:27:02Z",
+      "state": {
+        "f02a22f268b0fec97a4815ee5e3f79736553bf3e97888929b3ebbd9c149f55dd15660404d955be8cb4b4145ca6d5f4c82c6ff3024a6eb9a6a7c918da20ddecb7": [
+          "datacite.json"
+        ],
+        "ec2a307617bf6104a126e770ad1eaede41ed39196aa536a72f601defe05f835f6565674bd7cae0994913c9e196c0dc69035d9da2e2024e4a840472d907a60757": [
+          "genesis.json"
+        ],
+        "a240728157aa0d76564f9ac05062a8cc39873c5b60b37cef75aec21f251501602671d4d3b27a55a88d021f1467d753cf3a26eb0de5c44c7a721083808067b5cb": [
+          "members.json"
+        ],
+        "4791be0abe34068f32d6835bcfd72900dbc2e760b7c2c605a99ac3ddae513487ab3d213033dbf9c43d61f6b36402639ec596c417c4ddbe5a94023b1e340080d5": [
+          "object.json"
+        ]
+      },
+      "message": "Add fractional-phi42-mass-gap of https://mgubi.org/papers/ to reading-list (request 20261120-192631-kjsk): Test: a member from another archive.",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v4": {
+      "created": "2026-11-21T14:27:21Z",
+      "state": {
+        "8c1c63b5b17b7b3249f5a85e608e0083646b2b7958a5934b55eb0fe104fd63048e63c71f7080f2e323592fd389ae2d5fe5625747ee46ccbf1a79ac88426fdf48": [
+          "datacite.json"
+        ],
+        "ec2a307617bf6104a126e770ad1eaede41ed39196aa536a72f601defe05f835f6565674bd7cae0994913c9e196c0dc69035d9da2e2024e4a840472d907a60757": [
+          "genesis.json"
+        ],
+        "a5950679029edf1c16ff8a8f604d9a9963495eda3381a17e0d9fbd5ec40d105d8dfd9ca6eda7efaf1a303828c1e54c931bfcccdb893f502bf0f228015f9e6294": [
+          "members.json"
+        ],
+        "dfe0b4715ca33b3029a892a77086bc70941487c53ea61bbabc21f6504b3ab4c0613abe0810eebf11889950c65d5c46a671b276457ccbe0e8e1b7975f77b3d925": [
+          "object.json"
+        ]
+      },
+      "message": "Deposit direct-1, new paper in the collection `reading-list` (the OpenSheaf manager)",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    }
+  }
+}

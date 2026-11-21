@@ -3,6 +3,12 @@
   "index": "sha512",
   "entries": [
     {
+      "inventorySha512": "d38fdddb246c87000c4ab5e4e74e906d0e01916be54cfb281b5ed614788995b6c591c127b7706da60d3ee1bd40fa660d017ddb84ad7ed4ce1f3a7a147e5efe80",
+      "id": "sheaf:icqr25dgddk2n3hznkknmqcaclgtnmvpjpirsxghi5wknufd3cya:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "version": "v4",
+      "status": "active"
+    },
+    {
       "inventorySha512": "d3f8e08cbb74a2f757f399af91f25075a30411af41d972310e0a893a700ffd37fa50426572d75176fc3ebf295c7344d628240392af99fb1f26936c9805d1604c",
       "id": "sheaf:pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
       "version": "v2",

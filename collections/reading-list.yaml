@@ -18,3 +18,5 @@ members:
   at:
   - https://mgubi.org/papers/
   follow: true
+- label: direct-1
+  follow: true

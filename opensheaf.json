@@ -53,8 +53,8 @@
       "kind": "collection",
       "name": "icqr25dgddk2n3hznkknmqcaclgtnmvpjpirsxghi5wknufd3cya",
       "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
-      "head": "v3",
-      "inventorySha512": "3127198f878174cb1ffc798bc318feea1abbd5395389f8692faeaf069268a0ecfff6274039796c4f4c23a0d8f34dd6272084163f19c69c69e18cafed73a637d4",
+      "head": "v4",
+      "inventorySha512": "d38fdddb246c87000c4ab5e4e74e906d0e01916be54cfb281b5ed614788995b6c591c127b7706da60d3ee1bd40fa660d017ddb84ad7ed4ce1f3a7a147e5efe80",
       "status": "active",
       "label": "reading-list"
     },
@@ -63,8 +63,8 @@
       "kind": "collection",
       "name": "pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q",
       "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
-      "head": "v5",
-      "inventorySha512": "b6656aa661ba60b153038d0599cb2be236d5e5688c641d0c25be02c218c6e1f3a0628972be08e333c7e88772010248e67a9c61cb5d3ab28f6cabc1bcbb211165",
+      "head": "v6",
+      "inventorySha512": "bc28e784422dff23b6c3b88a5af84425f2f3433629b01c396cdb8975120222cd6b093a6a7db15cf9bcc60d049f4a13f991aa8115b039e18bbe953d85c78eb2cf",
       "status": "active",
       "label": "main"
     },
@@ -77,6 +77,16 @@
       "inventorySha512": "73a79c957db07fbd7f3314d3d226f93f2b54e4a14df0a495ad72b068e18470278c7f34a8cf6f21cbaba5975fab0c258fb63e1578f59dea919dc37836836194e1",
       "status": "active",
       "label": "test-1"
+    },
+    {
+      "id": "sheaf:y2h4mir3zyw3wlip44jadzvxpsy6acosklmgvyhflwe7r2m67fba:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "kind": "document",
+      "name": "y2h4mir3zyw3wlip44jadzvxpsy6acosklmgvyhflwe7r2m67fba",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "head": "v1",
+      "inventorySha512": "e143388d0f8e9801cc965567753dcb576d0de4811aa3d0995fbb829c36709299412c16bb233a1b83bf07f120f9abfe6ae494ada8d546d07edc6b70dbe7ae370b",
+      "status": "active",
+      "label": "direct-1"
     }
   ]
 }

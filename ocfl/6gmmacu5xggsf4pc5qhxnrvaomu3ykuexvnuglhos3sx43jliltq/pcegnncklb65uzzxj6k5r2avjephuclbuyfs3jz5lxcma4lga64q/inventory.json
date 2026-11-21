@@ -49,6 +49,15 @@
       ],
       "79ba460595e7b04499bf41eecf9415a8": [
         "v5/content/object.json"
+      ],
+      "b8d5db919d655a65e959fcdbea48b490": [
+        "v6/content/datacite.json"
+      ],
+      "fb6e3fad1a7a5b78dd97ca39bee91f7b": [
+        "v6/content/members.json"
+      ],
+      "5a726eadd4f010c00969c3027dc24946": [
+        "v6/content/object.json"
       ]
     },
     "sha256": {
@@ -99,10 +108,19 @@
       ],
       "911052937d1b9e04bea463990a68e7e554a19ab4587e5ac7dd7068a64f3cba60": [
         "v5/content/object.json"
+      ],
+      "cbaf136e207b5b0d0b40d1e2d44f988ddde9e2eaba0b28b120e1f5d0fbb47b86": [
+        "v6/content/datacite.json"
+      ],
+      "a9a31008e13eea35e1a9131f77273423a60de8a940a2f929c4506f84e86d3124": [
+        "v6/content/members.json"
+      ],
+      "1b52025a7201d9291ad970fe6d328766c199167f4d5fa5039404f81de6a73b45": [
+        "v6/content/object.json"
       ]
     }
   },
-  "head": "v5",
+  "head": "v6",
   "id": "sheaf:pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
   "manifest": {
     "748c546bd7880856ad028445dc78ae9f341894404c3d9e26c699f683a12c01aa8bf3d220d14488dba24158720a89ae124b8131c3499cef2b1f2b3e84f278f436": [
@@ -152,6 +170,15 @@
     ],
     "697b6ec89fd5de9b8b43b1c91881128ef61719c16f38979132dda2b816e5cdff4ab6cd5988bf72f179f10d99eea2df7448d611fd340c739c5aa66e3c711c8891": [
       "v5/content/object.json"
+    ],
+    "c4f0d4894e8e9c747f105dd4470fb9a7522482337b767118334e7195f3ad1dbf33d5bcc230d4af777818fb1f5dc25b222325eee7d6236da0c7615d53737b87be": [
+      "v6/content/datacite.json"
+    ],
+    "5f735fce49b5d3239e3f58b7de88179f5cf5c8479b9fc5fa995393f0191d5d071275371e06076cfeb619b59fe647e4b42fc68a9afbde29c60f8f48950c4bd044": [
+      "v6/content/members.json"
+    ],
+    "b66cd486050c2187be9efbcb58d5e2b03fb3ec367ce70e81c0cf211429b3a69e1c398bb873a7bfccd6d281aa2f05f879e46bc7005c19fe7edcb2490f27bda565": [
+      "v6/content/object.json"
     ]
   },
   "type": "https://ocfl.io/1.1/spec/#inventory",
@@ -261,6 +288,28 @@
         ]
       },
       "message": "Collection version 5: 2 documents",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v6": {
+      "created": "2026-11-21T14:27:21Z",
+      "state": {
+        "c4f0d4894e8e9c747f105dd4470fb9a7522482337b767118334e7195f3ad1dbf33d5bcc230d4af777818fb1f5dc25b222325eee7d6236da0c7615d53737b87be": [
+          "datacite.json"
+        ],
+        "0b22d5ffc05a2978d80105fbb55f1aebe08601d44771159538d9456418064554303da08fce2e638d2788e0743253aa2129f73b82c93c3d6da319cf00931c7585": [
+          "genesis.json"
+        ],
+        "5f735fce49b5d3239e3f58b7de88179f5cf5c8479b9fc5fa995393f0191d5d071275371e06076cfeb619b59fe647e4b42fc68a9afbde29c60f8f48950c4bd044": [
+          "members.json"
+        ],
+        "b66cd486050c2187be9efbcb58d5e2b03fb3ec367ce70e81c0cf211429b3a69e1c398bb873a7bfccd6d281aa2f05f879e46bc7005c19fe7edcb2490f27bda565": [
+          "object.json"
+        ]
+      },
+      "message": "Collection version 6: 3 documents",
       "user": {
         "name": "Massimiliano Gubinelli",
         "address": "https://opensheaf.org/opensheaf-manager-test/"

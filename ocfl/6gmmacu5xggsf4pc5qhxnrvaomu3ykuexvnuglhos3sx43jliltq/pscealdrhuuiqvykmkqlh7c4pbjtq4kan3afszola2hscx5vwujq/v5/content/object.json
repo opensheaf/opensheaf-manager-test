@@ -1,0 +1,41 @@
+{
+  "format": "opensheaf-object/0.2",
+  "specification": "0.2",
+  "kind": "document",
+  "name": "pscealdrhuuiqvykmkqlh7c4pbjtq4kan3afszola2hscx5vwujq",
+  "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "documentVersion": 1,
+  "sourcesMissing": {
+    "text": "A test deposit: only a PDF exists."
+  },
+  "renditions": [
+    {
+      "path": "paper.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "status": "active",
+  "notices": [
+    {
+      "text": "A test of the direct write of the manager (phase 6 of opensheaf-js): this notice was signed in the page and committed through the Git Data API.",
+      "documentVersion": 1,
+      "date": "2026-11-21"
+    },
+    {
+      "text": "Test of the website-publishing indicator.",
+      "documentVersion": 1,
+      "date": "2026-11-21"
+    },
+    {
+      "text": "Second test of the floating messages and the Activity bar.",
+      "documentVersion": 1,
+      "date": "2026-11-21"
+    },
+    {
+      "text": "Third test: the answer stays up, the page keeps its place.",
+      "documentVersion": 1,
+      "date": "2026-11-21"
+    }
+  ],
+  "previous": "39f2ad5a99da0e580073a153fb286d67772286b7481d90df1ef783ac543ac09c50c5a9d405fa96a43b5462f47fa0d74de3f568746558f082094c950ebf2e4f1f"
+}

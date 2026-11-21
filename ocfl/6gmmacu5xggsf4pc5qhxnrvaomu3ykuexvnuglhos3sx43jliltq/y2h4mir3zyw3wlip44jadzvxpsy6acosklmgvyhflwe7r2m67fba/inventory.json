@@ -16,6 +16,12 @@
       ],
       "80e2e55bd00ecf09521d7860c3282d67": [
         "v1/content/paper.pdf"
+      ],
+      "75c1b7fe5ab590043e40fb6d9d1e642f": [
+        "v2/content/datacite.json"
+      ],
+      "a3ad7fa88200505655044878f8f74f1e": [
+        "v2/content/object.json"
       ]
     },
     "sha256": {
@@ -33,10 +39,16 @@
       ],
       "0c2e39388557399fa65847aab190adebc197910811954d6bfa0086b974be2322": [
         "v1/content/paper.pdf"
+      ],
+      "9f36559f6c8e60ef90290ba96021562370933621145eb3cd486890bed376ff2e": [
+        "v2/content/datacite.json"
+      ],
+      "376b920b6a639bd757814797fb1bcce178d435441046a1fad236da30e3d5994e": [
+        "v2/content/object.json"
       ]
     }
   },
-  "head": "v1",
+  "head": "v2",
   "id": "sheaf:y2h4mir3zyw3wlip44jadzvxpsy6acosklmgvyhflwe7r2m67fba:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
   "manifest": {
     "011409a88e85d6c9127d9d8b35b16b9ea2fcb65489c1bb5c140d0c76e51e45a284d254e67992ec977ced01599895615cc0da54b108131cdb6e5c06e43d9ba23f": [
@@ -53,6 +65,12 @@
     ],
     "a97699fde7f28aa62ebbcc2c8410462e1d16e9785abbe9994d2c8e2b5ad15f06f94e0b86d331c223b226c66e5ccb00194eaefb566f3784631b0fafee942f3512": [
       "v1/content/paper.pdf"
+    ],
+    "8c53cb2461674d927dad090547942d07bc0f679fa0dc21b0fdb46875f17e53e7f3384ef7af94ca83236d26df345b10508d3510bb79a01150f02740169190cbdb": [
+      "v2/content/datacite.json"
+    ],
+    "6a0c6d255050156cb1d2e51cb425b4ff17bcb74434908b786bfe84335c13569046ef32fe7e45214d6d1bd36ce20cc40b571c82124149c9f1e909d30471369edf": [
+      "v2/content/object.json"
     ]
   },
   "type": "https://ocfl.io/1.1/spec/#inventory",
@@ -77,6 +95,31 @@
         ]
       },
       "message": "Deposit from the OpenSheaf manager",
+      "user": {
+        "name": "Massimiliano Gubinelli",
+        "address": "https://opensheaf.org/opensheaf-manager-test/"
+      }
+    },
+    "v2": {
+      "created": "2026-11-21T14:28:13Z",
+      "state": {
+        "8c53cb2461674d927dad090547942d07bc0f679fa0dc21b0fdb46875f17e53e7f3384ef7af94ca83236d26df345b10508d3510bb79a01150f02740169190cbdb": [
+          "datacite.json"
+        ],
+        "0bc6a7a5d62632772714c54626b4c909a03ed66847160354af2cbcbfefe61feae1917fcef1a2f9bae8f39cedec1730a01ca7a9aa8140206a606e616778408da6": [
+          "direct.tex"
+        ],
+        "a2c105ce66d041a6b2148e369f3b7a686a84478a77cb97244bfa3edd37624bd697598f9c0481a8304c4bcc53dd21e18c08cdec4b465befcc9ffa3f388f4e5430": [
+          "genesis.json"
+        ],
+        "6a0c6d255050156cb1d2e51cb425b4ff17bcb74434908b786bfe84335c13569046ef32fe7e45214d6d1bd36ce20cc40b571c82124149c9f1e909d30471369edf": [
+          "object.json"
+        ],
+        "a97699fde7f28aa62ebbcc2c8410462e1d16e9785abbe9994d2c8e2b5ad15f06f94e0b86d331c223b226c66e5ccb00194eaefb566f3784631b0fafee942f3512": [
+          "paper.pdf"
+        ]
+      },
+      "message": "Notice from the OpenSheaf manager",
       "user": {
         "name": "Massimiliano Gubinelli",
         "address": "https://opensheaf.org/opensheaf-manager-test/"

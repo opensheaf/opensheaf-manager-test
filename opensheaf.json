@@ -63,8 +63,8 @@
       "kind": "collection",
       "name": "pcegnncklb65uzzxj6k5r2avjephuclbuyfs3jz5lxcma4lga64q",
       "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
-      "head": "v6",
-      "inventorySha512": "bc28e784422dff23b6c3b88a5af84425f2f3433629b01c396cdb8975120222cd6b093a6a7db15cf9bcc60d049f4a13f991aa8115b039e18bbe953d85c78eb2cf",
+      "head": "v7",
+      "inventorySha512": "51293744f26697877b682ab1f08beecb544f3f8bbb1d788d0992eccc501b34bd6e46755f6211c164cfeb89f2dd7514401dd5f14ac8cc2868e93515f1686a1cc7",
       "status": "active",
       "label": "main"
     },
@@ -83,8 +83,8 @@
       "kind": "document",
       "name": "y2h4mir3zyw3wlip44jadzvxpsy6acosklmgvyhflwe7r2m67fba",
       "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
-      "head": "v1",
-      "inventorySha512": "e143388d0f8e9801cc965567753dcb576d0de4811aa3d0995fbb829c36709299412c16bb233a1b83bf07f120f9abfe6ae494ada8d546d07edc6b70dbe7ae370b",
+      "head": "v2",
+      "inventorySha512": "eea393dcca1edec5399460cd38e875d35497c3e919d538c2ac1bd666cf9e4f105fe460c3df196e0cc38ccf4d314b1f8791d41ede5af35d82600212591c0aa6e9",
       "status": "active",
       "label": "direct-1"
     }

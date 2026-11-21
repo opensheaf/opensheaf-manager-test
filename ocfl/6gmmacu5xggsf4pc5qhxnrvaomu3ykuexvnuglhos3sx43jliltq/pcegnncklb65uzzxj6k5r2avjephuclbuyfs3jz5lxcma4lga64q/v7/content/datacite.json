@@ -1,0 +1,48 @@
+{
+  "titles": [
+    {
+      "title": "OpenSheaf manager test (throwaway)"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Gubinelli, Massimiliano",
+      "nameType": "Personal",
+      "familyName": "Gubinelli",
+      "givenName": "Massimiliano"
+    }
+  ],
+  "publisher": {
+    "name": "OpenSheaf manager test (throwaway)"
+  },
+  "publicationYear": 2026,
+  "types": {
+    "resourceTypeGeneral": "Collection"
+  },
+  "version": "7",
+  "url": "https://opensheaf.org/opensheaf-manager-test/",
+  "dates": [
+    {
+      "date": "2026-11-20",
+      "dateType": "Issued"
+    },
+    {
+      "date": "2026-11-21",
+      "dateType": "Available"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "The documents deposited in this archive, newest first.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "Creative Commons Zero v1.0 Universal",
+      "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsIdentifier": "cc0-1.0",
+      "rightsIdentifierScheme": "SPDX"
+    }
+  ]
+}

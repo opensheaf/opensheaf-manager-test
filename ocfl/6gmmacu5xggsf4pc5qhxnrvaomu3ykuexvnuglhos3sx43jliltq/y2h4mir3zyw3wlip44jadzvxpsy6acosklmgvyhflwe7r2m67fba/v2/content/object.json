@@ -1,0 +1,25 @@
+{
+  "format": "opensheaf-object/0.2",
+  "specification": "0.2",
+  "kind": "document",
+  "name": "y2h4mir3zyw3wlip44jadzvxpsy6acosklmgvyhflwe7r2m67fba",
+  "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "documentVersion": 1,
+  "mainSource": "direct.tex",
+  "sourceFormat": "application/x-tex",
+  "renditions": [
+    {
+      "path": "paper.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "status": "active",
+  "notices": [
+    {
+      "text": "A second test of the direct write: a notice, signed in the page.",
+      "documentVersion": 1,
+      "date": "2026-11-21"
+    }
+  ],
+  "previous": "e143388d0f8e9801cc965567753dcb576d0de4811aa3d0995fbb829c36709299412c16bb233a1b83bf07f120f9abfe6ae494ada8d546d07edc6b70dbe7ae370b"
+}

@@ -1,0 +1,31 @@
+{
+  "format": "opensheaf-object/0.2",
+  "specification": "0.2",
+  "kind": "document",
+  "name": "pscealdrhuuiqvykmkqlh7c4pbjtq4kan3afszola2hscx5vwujq",
+  "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+  "documentVersion": 1,
+  "sourcesMissing": {
+    "text": "A test deposit: only a PDF exists."
+  },
+  "renditions": [
+    {
+      "path": "paper.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "status": "active",
+  "notices": [
+    {
+      "text": "A test of the direct write of the manager (phase 6 of opensheaf-js): this notice was signed in the page and committed through the Git Data API.",
+      "documentVersion": 1,
+      "date": "2026-11-21"
+    },
+    {
+      "text": "Test of the website-publishing indicator.",
+      "documentVersion": 1,
+      "date": "2026-11-21"
+    }
+  ],
+  "previous": "73a79c957db07fbd7f3314d3d226f93f2b54e4a14df0a495ad72b068e18470278c7f34a8cf6f21cbaba5975fab0c258fb63e1578f59dea919dc37836836194e1"
+}

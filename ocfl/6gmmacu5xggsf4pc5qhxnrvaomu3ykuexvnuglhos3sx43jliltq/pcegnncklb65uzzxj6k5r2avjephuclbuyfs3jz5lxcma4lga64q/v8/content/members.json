@@ -1,0 +1,67 @@
+{
+  "format": "opensheaf-collection/0.2",
+  "type": "catalogue",
+  "order": "issued-desc",
+  "members": [
+    {
+      "kind": "document",
+      "name": "y2h4mir3zyw3wlip44jadzvxpsy6acosklmgvyhflwe7r2m67fba",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "at": [
+        "https://opensheaf.org/opensheaf-manager-test/"
+      ],
+      "version": "v2",
+      "inventorySha512": "eea393dcca1edec5399460cd38e875d35497c3e919d538c2ac1bd666cf9e4f105fe460c3df196e0cc38ccf4d314b1f8791d41ede5af35d82600212591c0aa6e9",
+      "follow": "latest",
+      "cite": {
+        "title": "A paper written directly by the manager",
+        "creators": [
+          "Massimiliano Gubinelli"
+        ],
+        "year": 2026,
+        "issued": "2026-11-21"
+      }
+    },
+    {
+      "kind": "document",
+      "name": "pscealdrhuuiqvykmkqlh7c4pbjtq4kan3afszola2hscx5vwujq",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "at": [
+        "https://opensheaf.org/opensheaf-manager-test/"
+      ],
+      "version": "v3",
+      "inventorySha512": "3433fdf3b893945225acf8a65df954ce2e0f3c16ccbd77469253bcc2a8bf057d5283ea11b1757a12d4c2acedb767aa24ab73067cd2c48031ad57687d7100bb88",
+      "follow": "latest",
+      "cite": {
+        "title": "A test paper deposited from the manager",
+        "creators": [
+          "Massimiliano Gubinelli"
+        ],
+        "year": 2026,
+        "issued": "2026-11-20"
+      }
+    },
+    {
+      "kind": "document",
+      "name": "hxma6j7atnjfvzcj5qxlyybhsj6xat6gmpuxrkpsm3j5uiipostq",
+      "owner": "6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "at": [
+        "https://opensheaf.org/opensheaf-manager-test/"
+      ],
+      "version": "v3",
+      "inventorySha512": "286aaff036edae9125efa3ed6dda9d976737f506568905c24f14247f72e490f6697a40c44682f2c7477a8b3c2646c5a562bae3a68b01748cc45fc393a40090e6",
+      "follow": "latest",
+      "cite": {
+        "title": "Linking numbers in local quantum field theory",
+        "creators": [
+          "Detlev Buchholz",
+          "Fabio Ciolli",
+          "Giuseppe Ruzzi",
+          "Ezio Vasselli"
+        ],
+        "year": 2018,
+        "issued": "2018-08-30"
+      }
+    }
+  ]
+}

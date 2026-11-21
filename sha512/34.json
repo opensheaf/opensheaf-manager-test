@@ -7,6 +7,12 @@
       "id": "sheaf:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
       "version": "v2",
       "status": "active"
+    },
+    {
+      "inventorySha512": "3433fdf3b893945225acf8a65df954ce2e0f3c16ccbd77469253bcc2a8bf057d5283ea11b1757a12d4c2acedb767aa24ab73067cd2c48031ad57687d7100bb88",
+      "id": "sheaf:pscealdrhuuiqvykmkqlh7c4pbjtq4kan3afszola2hscx5vwujq:6gmmacu5xggsf4pc5qhxnrvaomu3ykuexvnuglhos3sx43jliltq",
+      "version": "v3",
+      "status": "active"
     }
   ]
 }
